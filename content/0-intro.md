@@ -1,8 +1,8 @@
 ---
-title: Introduction
-nav: Intro
-permalink: /intro.html
+title: About
+nav: About
+permalink: /about.html
 order: 0
 ---
 
-This site will contain all instructions students will need to follow to investigate historical texts and create an essay for the web.
+This site is a test before creating CB workshop documentation
