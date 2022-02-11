@@ -13,7 +13,7 @@ This site contains test text {:target="_blank" rel="noopener"}.
 
 {% include toc.html %}
 
-Produced by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
+Produced by [University of Oregon Libraries](https://library.uoregon.edu/), {{ site.pub_year }}.
 
 ------
 
