@@ -1,12 +1,14 @@
 ---
-title: Digital Humanities and Texts
-nav: Digital Humanities
-permalink: /dh.html
-topics: Digital Humanities (DH); Digital History; Text Analysis; Topic Modeling
+title: Testy and Texts
+nav: Testy2
+permalink: /testy2.html
+topics: Digital Humanities (DH); Digital History; Text Analysis; Topic Modeling; test; testy
 order: 2
 ---
 
 ---
+**Gabriele made a change here**
+
 
 **Goals**: Explore examples of Digital Humanities projects; gain familiarity with concepts of Digital Humanities/Digital History, text as data, text analysis, and topic modeling
 
