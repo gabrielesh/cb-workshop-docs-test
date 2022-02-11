@@ -1,7 +1,7 @@
 ---
 title: Testy and Texts
 nav: Testy2
-permalink: /2-testy2.html
+permalink: /testy2.html
 topics: Digital Humanities (DH); Digital History; Text Analysis; Topic Modeling; test; testy
 order: 2
 ---
