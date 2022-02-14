@@ -1,5 +1,5 @@
 ---
-title: Week 1: Building a Digital Archive using CollectionBuilder
+title: Week 1 Building a Digital Archive using CollectionBuilder
 nav: Week 1
 permalink: /week1.html
 topics: Learning Objectives; Assignments; GitHub; file editing and sharing
@@ -9,8 +9,6 @@ order: 1
 **Goals**: Create a GitHub account; follow the instructions to create and edit a GitHub repository
 
 **Estimated Time to Complete**: 45 minutes
-
----
 
 For the digital portion of this course, we're going to be using the web platform GitHub to store files and create a website. 
 Please follow the instructions below for a quick introduction to GitHub.
