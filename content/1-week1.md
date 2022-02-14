@@ -6,20 +6,10 @@ topics: Learning Objectives; Assignments; GitHub; file editing and sharing
 order: 1
 ---
 
-**Goals**: Create a GitHub account; follow the instructions to create and edit a GitHub repository
-
-**Estimated Time to Complete**: 45 minutes
-
-For the digital portion of this course, we're going to be using the web platform GitHub to store files and create a website. 
-Please follow the instructions below for a quick introduction to GitHub.
-
-CollectionBuilder Workshop 1 - Part 1
+# CollectionBuilder Workshop 1 - Part 1
 
 
-topics: 
-LEARNING SEQUENCE: Digital Collections & Storytelling with CollectionBuilder
-
-Learning Sequence Description
+Digital Collections & Storytelling with CollectionBuilder
 
 In lesson one of this learning sequence learners will gain experience expressing how they think CollectionBuilder is an appropriate tool for their digital collections and storytelling project. The audience for this lesson includes teachers, researchers, students, and staff
 
@@ -27,19 +17,14 @@ In lesson one of this learning sequence learners will gain experience expressing
 
 Learning Objectives and Aligned Assessments
 
-> INSTRUCTIONS for Learning Objectives: Describe the objectives in specific, measurable, short-term, observable learner behaviors (See the Learning Objectives Builder Tool for help). Identifying the desirable knowledge, skills, or attitudes to be gained as a result of the class activities.
-> INSTRUCTIONS for Assessments: List the learning assessment methods you intend to use to measure the stated learning objectives. How will you know that the objectives are achieved?
-| Learning Objectives                                                                                             | Aligned Assessments                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| By the end of this class, you will be able to                                                                   |                                                                                                                                                 |
+
+| Learning Objectives    | Aligned Assessments |
+| -----------------------| ------------------------ |
+| By the end of this class, you will be able to |                                        |
 | 1. Learner will express how CollectionBuilder is relevant to their digital collections and storytelling project | 1. Learners will express CollectionBuilder’s relevancy by sharing how they see the tool fitting their digital collection and storytelling needs |
 
 ----------
 ALIGNED STANDARDS/FRAMEWORK
-
-(Optional/Suggested)
-
-> INSTRUCTIONS: It is optional and suggested to identify standards/frameworks/competencies that align with your learning sequence and define what learners should know and be able to do within a content area at specific stages in their education (for example, the ACRL Framework for Information Literacy for Higher Education or ISTE Standards).
 
 ISTE Standards
 1.6. Creative Communicator 
@@ -47,21 +32,18 @@ Students choose the appropriate platforms and tools for meeting the desired obje
 
 ----------
 RESOURCES
-| Resource Type          | Links & Materials                                                                                                                                                                                                                  |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Instructor Materials   | Instructor supports (handouts, online resources, technology needs).<br><br><br>- Lecture Slides<br>- Workshop Site                                                                                                                 |
-| Learner Materials      | Learner essential materials.<br><br><br>- Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video<br>- Workshop Site: Materials related to this lesson are available on this site |
-| Supplemental Materials | Learner supplemental/optional materials.<br><br><br>- None                                                                                                                                                                         |
-
+| Resource Type          | Links & Materials  |
+| ---------------------- | ------------------------------ |
+| Instructor Materials   | Instructor supports (handouts, online resources, technology needs). Lecture Slides Workshop Site |
+| Learner Materials      | Learner essential materials. Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video Workshop Site: Materials related to this lesson are available on this site |
+| Supplemental Materials | Learner supplemental/optional materials. None   
 LEARNING SEQUENCE OUTLINE
 
 Before Class
-WHAT TO INCLUDE: Pre-class assessments; Pre-work to prepare for hands-on class time.
 
 Nothing is required for pre-class assessment.
 
 During Class
-WHAT TO INCLUDE: Create a detailed plan for class time. What content teaching strategies, learning activities (application), and formative assessments will you employ and in what order?
 
 | Estimated time | Topic/Material Covered                                                      | Activity/Delivery Method                                                                                                                                                                                                                                                                                                                                                   |
 | -------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -71,6 +53,5 @@ WHAT TO INCLUDE: Create a detailed plan for class time. What content teaching st
 
 
 After Class
-WHAT TO INCLUDE: Summative Assessments; Plans for following-up with learners and those needing additional support; Extension of learning opportunities;
 
 Via email or another virtual communication tool, share the resource guide/handout again with learners for future reference.
