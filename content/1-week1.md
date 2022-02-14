@@ -31,12 +31,16 @@ ISTE Standards
 Students choose the appropriate platforms and tools for meeting the desired objectives of their creation or communication.
 
 ----------
+
 RESOURCES
+
+
 | Resource Type          | Links & Materials  |
 | ---------------------- | ------------------------------ |
-| Instructor Materials   | Instructor supports (handouts, online resources, technology needs). Lecture Slides Workshop Site |
-| Learner Materials      | Learner essential materials. Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video Workshop Site: Materials related to this lesson are available on this site |
-| Supplemental Materials | Learner supplemental/optional materials. None   
+| Instructor Materials   | Lecture Slides Workshop Site |
+| Learner Materials      | - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video - Workshop Site: Materials related to this lesson are available on this site |
+| Supplemental Materials | None   |
+
 LEARNING SEQUENCE OUTLINE
 
 Before Class
