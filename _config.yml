@@ -25,9 +25,9 @@ search: true
 # author settings for cc-by, appears in the footer and credits
 author: gabriele hayden & kate thornhill
 # your github username for link [optional]
-github_username: gabrielesh, kmthorn
+github_username: gabrielesh
 # year or date published
-pub_year: 2021
+pub_year: 2022
 # location of code, the full url to your github repository
 source-code: https://github.com/gabrielesh/cb-workshop-docs-test
 
