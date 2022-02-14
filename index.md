@@ -8,7 +8,7 @@ layout: default
 <div class="text-center pt-3" markdown="1">
 New sample front text, **Testy, Testy**
 
-This site contains test text {:target="_blank" rel="noopener"}.
+This site contains test text.
 </div>
 
 {% include toc.html %}
