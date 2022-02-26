@@ -37,7 +37,7 @@ RESOURCES
 
 | Resource Type          | Links & Materials  |
 | ---------------------- | ------------------------------ |
-| Instructor Materials   | Lecture Slides Workshop Site |
+| Instructor Materials   | - Internet-connected computer, ideally with video camera. - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. - Workshop Site |
 | Learner Materials      | - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video - Workshop Site: Materials related to this lesson are available on this site |
 | Supplemental Materials | None   |
 
@@ -92,7 +92,7 @@ ISTE 1.6b, “Students create original works or responsibly repurpose or remix d
 | Resource Type          | Links & Materials                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Instructor Materials   | Internet-connected computer, ideally with video camera.<br><br>Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video.                                                                                                                                                                                                                                                                       |
-| Learner Materials      | Learner essential materials.<br><br>Internet-connected computer, ideally with video camera.<br><br>Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video.<br><br>Email account for creating GitHub account during in the session.                                                                                                                                                           |
+| Learner Materials      | Internet-connected computer, ideally with video camera.<br><br>Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video.<br><br>Email account for creating GitHub account during in the session.                                                                                                                                                           |
 | Supplemental Materials | Learner supplemental/optional materials.<br><br>Learner may bring their own digital images and metadata file to class in order to begin building a custom version of the workshop. Alternatively, we provide sample “custom” materials for students to practice on. These materials will consist of a number of small jpeg images, and one csv/Google sheet containing metadata in CollectionBuilder format, ready to upload to their website. |
 
 ## LEARNING SEQUENCE OUTLINE
