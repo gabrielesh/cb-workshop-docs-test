@@ -6,9 +6,8 @@ layout: default
 <h1 class="text-center pt-2">{{ site.title }}</h1>
 
 <div class="text-center pt-3" markdown="1">
-New sample front text, **Testy, Testy**
+Lesson plans and materials for **Digital Collections & Storytelling with CollectionBuilder** Workshop Series
 
-This site contains test text.
 </div>
 
 {% include toc.html %}
