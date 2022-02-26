@@ -17,19 +17,19 @@ title: Building Digital Projects Using CollectionBuilder
 # some options: code-slash file-code gear tools lightblub book bookmark-star
 title-icon: activity
 # description, keywords, and image for meta tags
-description: "test"
-featured-image: "/images/uidaho-workshop.jpg"
+description: "Lesson Plans and Materials for a Workshop"
+# featured-image: "/images/uidaho-workshop.jpg"
 # add search box to footer? true/false
 search: true
 
 # author settings for cc-by, appears in the footer and credits
-author: gabriele hayden & kate thornhill
+author: Gabriele Hayden & Kate Thornhill
 # your github username for link [optional]
-github_username: gabrielesh
+github_username: learn-static
 # year or date published
 pub_year: 2022
 # location of code, the full url to your github repository
-source-code: https://github.com/gabrielesh/cb-workshop-docs-test
+source-code: https://github.com/gabrielesh/cb-workshop-for-learn-static
 
 ##########
 # URL VARIABLES [optional!]
