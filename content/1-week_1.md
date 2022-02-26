@@ -6,7 +6,9 @@ topics: Learning Objectives; Assignments; GitHub; file editing and sharing
 order: 1
 ---
 
-# CollectionBuilder Workshop 1 - Part 1
+# Building a Digital Archive using CollectionBuilder
+
+## CollectionBuilder Workshop 1 - Part 1
 
 
 Digital Collections & Storytelling with CollectionBuilder
@@ -61,10 +63,67 @@ After Class
 Via email or another virtual communication tool, share the resource guide/handout again with learners for future reference.
 
 
-# CollectionBuilder Workshop 1: Part 3 of 3
+## CollectionBuilder Workshop 1: Part 2 of 3 (GitHub)
+
+Digital Collections & Storytelling with CollectionBuilder
+
+**Learning Sequence Description**
+
+In this workshop series you will learn how to create a website displaying a digital collection using free, open-source software (CollectionBuilder). This workshop series is appropriate for anyone who wants to learn to build their own website to display a digital collection, whether for a class, a grant, or a digital humanities project. You can also use this software to create a personal website showcasing your professional portfolio as an architect, designer, or artist. You should be comfortable learning new things, but no prior experience with web design is required.
+
+We will begin by exploring what a digital collection is. We will help you set up an account on GitHub—the platform that will host our website for free—and show you a little bit about how interact with that platform. In the second hour of the workshop, you will learn to import sample data into a project. By the end of the session, you will have a live website!
+
+You are encouraged to bring your own materials to the workshop if you already have materials for a digital collection prepared. Once you register, we will send you instructions on what materials to bring.
+
+----------
+
+**Learning Objectives and Aligned Assessments**
+
+| Learning Objectives                                                                                                                                                                                                                                                                            | Aligned Assessments                                                                                                                                                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| By the end of this class, you will be able to                                                                                                                                                                                                                                                  | Workshop leaders will confirm that learners have                                                                                                                                                                                                                                                |
+| 1. create a GitHub account and public repository<br>2. create a commit and a quality commit message<br>3. view git history to see changes to the repository and git diff to see changes to files<br>4. create an issue in a GitHub repository<br>5. find and add collaborators in a repository | 1. created a GitHub account and repository<br>2. created a commit and a quality commit message<br>3. viewed git history to see changes to the repository and git diff to see changes to files<br>4. created an issue in a GitHub repository<br>5. found and added collaborators in a repository |
+
+----------
+## ALIGNED STANDARDS/FRAMEWORK
+
+Prerequisite skills for ISTE 1.6b, “Students create original works or responsibly repurpose or remix digital resources into new creations.”
+
+----------
+## RESOURCES
+| Resource Type          | Links & Materials                                                                                                                                                                                                                                |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Instructor Materials   | -  Internet-connected computer, ideally with video camera. - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. -Learn Static Modules                                                                                                  |
+| Learner Materials      | - Internet-connected computer, ideally with video camera. - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. - Email account for creating GitHub account during in the session. |
+| Supplemental Materials | None                                                                                                                                                                                                                                             |
+
+## LEARNING SEQUENCE OUTLINE
+
+**Before Class**
+WHAT TO INCLUDE: Pre-class assessments; Pre-work to prepare for hands-on class time.
+
+Students will be invited (but not required) to set up their GitHub account before class.
+
+**During Class**
+
+| Estimated time | Topic/Material Covered                                              | Activity/Delivery Method                                                              |
+| -------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 1. 5 minutes   | What is GitHub and why use it?                                      | Brief lecture with slides                                                             |
+| 2. 20 minutes  | Students go through the 5 steps outlined in the learning objectives | Click along based on the 5 steps outlined above (also covered in Learn-Static module) |
+| 4. 5 minutes   | Final questions/review                                              |                                                                                       |
+
+
+**After Class**
+WHAT TO INCLUDE: Summative Assessments; Plans for following-up with learners and those needing additional support; Extension of learning opportunities;
+
+Via email or another virtual communication tool, share the Learn-Static guide again with learners for future reference.
+
+
+
+## CollectionBuilder Workshop 1: Part 3 of 3
 CollectionBuilder Workshop 
 
-# LEARNING SEQUENCE: Digital Collections & Storytelling with CollectionBuilder
+Digital Collections & Storytelling with CollectionBuilder
 
 **Learning Sequence Description**
 In this workshop series you will learn how to create a website displaying a digital collection using free, open-source software (CollectionBuilder). This workshop series is appropriate for anyone who wants to learn to build their own website to display a digital collection, whether for a class, a grant, or a digital humanities project. You can also use this software to create a personal website showcasing your professional portfolio as an architect, designer, or artist. You should be comfortable learning new things, but no prior experience with web design is required.
